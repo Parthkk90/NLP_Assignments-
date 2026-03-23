@@ -1,4 +1,4 @@
-# GenAI-Assignments
+# NLP - Assignments
 
 ## Student Details
 - Name: Parth Kairamkonda
